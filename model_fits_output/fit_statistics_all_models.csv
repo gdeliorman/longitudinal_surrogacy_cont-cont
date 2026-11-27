@@ -1,0 +1,6 @@
+model;npar;logLik;neglogLik;AIC;convergence
+M1:Galecki’s marginal model;31;4128.355733433;-4128.355733433;-8194.711466866;0
+M2: endpoint-specific random intercepts;37;4177.79954152376;-4177.79954152376;-8281.59908304752;0
+M3: endpoint-specific random intercepts and slopes, AR1;51;4305.80654730976;-4305.80654730976;-8509.61309461953;0
+M4: shared random intercept within arm;33;4129.59702570194;-4129.59702570194;-8193.19405140387;0
+M5: shared random intercept and slope within arm;37;4175.94179755569;-4175.94179755569;-8277.88359511139;0
